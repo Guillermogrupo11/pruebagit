@@ -1,0 +1,3 @@
+url para comunicarse de manera remota con el repositio de gitHub
+
+https://github.com/Guillermogrupo11/pruebagit.git
